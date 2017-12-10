@@ -9,6 +9,9 @@ var charDb = monk('localhost:27017/characters');
 //app.get('/api/stats', (req, res) => res.send('Stat request received'));
 app.get('/api/stats', function(req, res) {
   var id_char=req.query.id_char;
+  id_char = id_char.toLowerCase();
+  id_char = id_char.substring(0,1).toUpperCase() + id_char.slice(1,id_char.length);
+
   var id_game=req.query.id_game;
   var subCat=req.query.subCat;
   characters = charDb.get(id_game + "_growths");

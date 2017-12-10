@@ -7,3 +7,14 @@
 
 collection name:
 <game_id>_growths
+
+
+
+
+As of Mongo 2.6.1, it DOES keep the order of your fields:
+
+MongoDB preserves the order of the document fields following write operations except for the following cases:
+
+The _id field is always the first field in the document.
+Updates that include renaming of field names may result in the reordering of fields in the document.
+http://docs.mongodb.org/manual/release-notes/2.6/#insert-and-update-improvements
