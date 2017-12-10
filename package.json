@@ -1,0 +1,30 @@
+{
+  "name": "core-streamstats",
+  "version": "1.0.0",
+  "description": "Mongo server app for growths.",
+  "main": "server.js",
+  "scripts": {
+    "test": "core-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nagasen314/core-streamstats.git"
+  },
+  "keywords": [
+    "npm",
+    "fire",
+    "emblem"
+  ],
+  "author": "Naga Senpai",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nagasen314/core-streamstats/issues"
+  },
+  "homepage": "https://github.com/nagasen314/core-streamstats#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0",
+    "monk": "^6.0.5",
+    "url": "^0.11.0"
+  }
+}

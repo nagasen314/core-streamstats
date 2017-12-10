@@ -1,0 +1,9 @@
+1. mongod --dbpath /opt/mongo_data --smallfiles
+2. mongo
+3. use characters
+4. db.usercollection.insert({ "username" : "testuser1", "email" : "testuser1@testdomain.com" })
+5. db.usercollection.find().pretty() // will show all records
+6. mongoimport -d <database name> -c <collection name> --type csv --file <file>.csv --headerline
+
+collection name:
+<game_id>_growths
