@@ -9,6 +9,11 @@ collection name:
 <game_id>_growths
 
 
+Match order of records (base off Serenesforest)
+Comma-delimit names, direct replace values
+inject_alt.js
+mongoimport -d <db name> -c <coll name> --type json --file <file>.json --drop
+mongoimport -d characters -c TRS_growths --type json --file data/TRS_growths_mod.json --drop
 
 
 As of Mongo 2.6.1, it DOES keep the order of your fields:
