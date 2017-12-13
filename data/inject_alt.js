@@ -15,10 +15,7 @@ if(baseArr.length !== injArr.length) {
 
 var len = baseArr.length;
 var output = "";
-for(var i=0; i<len; i++) {
-  if (i === 0)
-    continue;
-
+for(var i=1; i<len; i++) {
   var temp;
   try {
     temp = JSON.parse(baseArr[i]);
