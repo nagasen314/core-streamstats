@@ -1,62 +1,62 @@
 {"Name":["Runan","Ryunan"],"Skills":[{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Adept","skillCond":"7"},{"skillName":"Rising Dragon","skillCond":"15"},{"skillName":"Awareness","skillCond":"35"},{"skillName":"Adept","skillCond":"Promo"},{"skillName":"Charisma","skillCond":"Promo"}]}
-{"Name":["Kreiss","Kuraisu"],"Skills":[{"skillName":"Gale","skillCond":"19"},{"skillName":"Geomany","skillCond":"25"},{"skillName":"Awareness","skillCond":"37"}]}
+{"Name":["Kreiss","Kuraisu"],"Skills":[{"skillName":"Vantage","skillCond":"19"},{"skillName":"Geomany","skillCond":"25"},{"skillName":"Awareness","skillCond":"37"}]}
 {"Name":["Arkis","Akisu"],"Skills":[{"skillName":"Lethality","skillCond":"16"},{"skillName":"Adept","skillCond":"25"},{"skillName":"Canto","skillCond":"38"}]}
 {"Name":["Garo"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Wrath","skillCond":"28"},{"skillName":"Charge","skillCond":"29"},{"skillName":"Awareness","skillCond":"30"},{"skillName":"Lethality","skillCond":"31"}]}
 {"Name":["Kate","Keito","Kaite"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"18"},{"skillName":"Canto","skillCond":"27"}]}
-{"Name":["Sasha","Sasya"],"Skills":[{"skillName":"Charisma","skillCond":"Base"},{"skillName":"Gale","skillCond":"8|Princess"},{"skillName":"Paragon","skillCond":"10|Princess"},{"skillName":"Adept","skillCond":"15"},{"skillName":"Canto","skillCond":"Promo"}]}
+{"Name":["Sasha","Sasya"],"Skills":[{"skillName":"Charisma","skillCond":"Base"},{"skillName":"Vantage","skillCond":"8|Princess"},{"skillName":"Paragon","skillCond":"10|Princess"},{"skillName":"Adept","skillCond":"15"},{"skillName":"Canto","skillCond":"Promo"}]}
 {"Name":["Lee"],"Skills":[]}
 {"Name":["Ezekiel","Ezekieru"],"Skills":[{"skillName":"Lethality","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Mountain Fighter","skillCond":"12"},{"skillName":"Plains Fighter","skillCond":"18"},{"skillName":"Frontier Fighter","skillCond":"24"}]}
 {"Name":["Narron","Naron"],"Skills":[{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Lethality","skillCond":"12|GoldKnight"},{"skillName":"Canto","skillCond":"16"},{"skillName":"Adept","skillCond":"Promo"},{"skillName":"Pavise","skillCond":"Promo"}]}
 {"Name":["Ruka","Luca"],"Skills":[{"skillName":"Charge","skillCond":"15"},{"skillName":"Adept","skillCond":"30"},{"skillName":"City Fighter","skillCond":"Promo"}]}
-{"Name":["Raffin","Rafin"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Gale","skillCond":"17"},{"skillName":"Adept","skillCond":"24"}]}
-{"Name":["Estelle","Esteru","Esther"],"Skills":[{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Wrath","skillCond":"14"},{"skillName":"Paragon","skillCond":"20"},{"skillName":"Gale","skillCond":"28"}]}
-{"Name":["Julia","Juria"],"Skills":[{"skillName":"Adept","skillCond":"8"},{"skillName":"Rising Dragon","skillCond":"18"},{"skillName":"Anti-Evil","skillCond":"25"},{"skillName":"Dragon Saint","skillCond":"eventC30"}]}
+{"Name":["Raffin","Rafin"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Vantage","skillCond":"17"},{"skillName":"Adept","skillCond":"24"}]}
+{"Name":["Estelle","Esteru","Esther"],"Skills":[{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Wrath","skillCond":"14"},{"skillName":"Paragon","skillCond":"20"},{"skillName":"Vantage","skillCond":"28"}]}
+{"Name":["Julia","Juria"],"Skills":[{"skillName":"Adept","skillCond":"8"},{"skillName":"Rising Dragon","skillCond":"18"},{"skillName":"Slayer","skillCond":"25"},{"skillName":"Dragon Saint","skillCond":"eventM30"}]}
 {"Name":["Barts","Batsu","Bartz"],"Skills":[{"skillName":"Mountain Fighter","skillCond":"Base"},{"skillName":"Charge","skillCond":"15"}]}
 {"Name":["Enteh","Ente"],"Skills":[{"skillName":"Summon","skillCond":"30"}]}
-{"Name":["Plum","Puramu"],"Skills":[{"skillName":"Dance","skillCond":"eventC14"}]}
-{"Name":["Raquel","Rakeru"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Forest Fighter","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Anti-Evil","skillCond":"16"},{"skillName":"Awareness","skillCond":"31"}]}
-{"Name":["Mahter","Materu","Martel"],"Skills":[{"skillName":"Gale","skillCond":"Base"},{"skillName":"Canto","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"15"},{"skillName":"Adept","skillCond":"25"}]}
-{"Name":["Vega"],"Skills":[{"skillName":"Heaven Saint","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"15"},{"skillName":"Gale","skillCond":"35"}]}
-{"Name":["Maruju","Maruj"],"Skills":[{"skillName":"Adept","skillCond":"19|Mage"},{"skillName":"Heaven Saint","skillCond":"20|Sage"},{"skillName":"Charge","skillCond":"39"}]}
+{"Name":["Plum","Puramu"],"Skills":[{"skillName":"Dance","skillCond":"eventM14"}]}
+{"Name":["Raquel","Rakeru"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Forest Fighter","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Slayer","skillCond":"16"},{"skillName":"Awareness","skillCond":"31"}]}
+{"Name":["Mahter","Materu","Martel"],"Skills":[{"skillName":"Vantage","skillCond":"Base"},{"skillName":"Canto","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"15"},{"skillName":"Adept","skillCond":"25"}]}
+{"Name":["Vega"],"Skills":[{"skillName":"Sol","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"15"},{"skillName":"Vantage","skillCond":"35"}]}
+{"Name":["Maruju","Maruj"],"Skills":[{"skillName":"Adept","skillCond":"19|Mage"},{"skillName":"Sol","skillCond":"20|Sage"},{"skillName":"Charge","skillCond":"39"}]}
 {"Name":["Zeek","Jiku","Zieg","Sieg"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Awareness","skillCond":"Base"},{"skillName":"Frontier Fighter","skillCond":"Base"},{"skillName":"Canto","skillCond":"14"}]}
 {"Name":["Mel","Meru"],"Skills":[{"skillName":"Canto","skillCond":"14"}]}
 {"Name":["Norton","Nouton"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Pavise","skillCond":"12|IronKnight"},{"skillName":"Pavise","skillCond":"25"}]}
 {"Name":["Thomas","Tomusu","Tom"],"Skills":[{"skillName":"Adept","skillCond":"30"}]}
-{"Name":["Roger","Roja"],"Skills":[{"skillName":"Pavise","skillCond":"Base"},{"skillName":"Gale","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Wrath","skillCond":"18"}]}
+{"Name":["Roger","Roja"],"Skills":[{"skillName":"Pavise","skillCond":"Base"},{"skillName":"Vantage","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Wrath","skillCond":"18"}]}
 {"Name":["Katri","Katori"],"Skills":[{"skillName":"Summon","skillCond":"Base"}]}
-{"Name":["Xeno","Zeno"],"Skills":[{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Lethality","skillCond":"13|Fighter"},{"skillName":"Anti-Evil","skillCond":"20"},{"skillName":"Rising Dragon","skillCond":"30"}]}
+{"Name":["Xeno","Zeno"],"Skills":[{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Lethality","skillCond":"13|Mercenary"},{"skillName":"Slayer","skillCond":"20"},{"skillName":"Rising Dragon","skillCond":"30"}]}
 {"Name":["Yuni","Juni"],"Skills":[{"skillName":"Steal","skillCond":"Base"},{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Frontier Fighter","skillCond":"12"},{"skillName":"Adept","skillCond":"28"},{"skillName":"Charisma","skillCond":"35"}]}
-{"Name":["Meriah","Merieru","Meriel"],"Skills":[{"skillName":"Wrath","skillCond":"15|Mage"},{"skillName":"Geomancy","skillCond":"15|Sage"},{"skillName":"Heaven Saint","skillCond":"30"}]}
+{"Name":["Meriah","Merieru","Meriel"],"Skills":[{"skillName":"Wrath","skillCond":"15|Mage"},{"skillName":"Luna","skillCond":"15|Sage"},{"skillName":"Sol","skillCond":"30"}]}
 {"Name":["Sharon"],"Skills":[{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Charge","skillCond":"15"},{"skillName":"Canto","skillCond":"32"}]}
 {"Name":["Billford","Birufoudo"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Pavise","skillCond":"Base"},{"skillName":"Awareness","skillCond":"26"},{"skillName":"Adept","skillCond":"31"},{"skillName":"Charge","skillCond":"38"}]}
 {"Name":["Holmes","Houmuzu","Hormes"],"Skills":[{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"16"},{"skillName":"Adept","skillCond":"32"},{"skillName":"Charisma","skillCond":"Promo"}]}
-{"Name":["Shigen","Theo","Teo"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Arena Fighter","skillCond":"21"},{"skillName":"Rising Dragon","skillCond":"28"},{"skillName":"Gale","skillCond":"38"}]}
+{"Name":["Shigen","Theo","Teo"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Sea Fighter","skillCond":"Base"},{"skillName":"Arena Fighter","skillCond":"21"},{"skillName":"Rising Dragon","skillCond":"28"},{"skillName":"Vantage","skillCond":"38"}]}
 {"Name":["Alicia","Erisha"],"Skills":[{"skillName":"Charge","skillCond":"16"},{"skillName":"Adept","skillCond":"32"}]}
-{"Name":["Samson","Samuson"],"Skills":[{"skillName":"Frontier Fighter","skillCond":"Base"},{"skillName":"Gale","skillCond":"14"},{"skillName":"Awareness","skillCond":"20|AxeFighter"},{"skillName":"Adept","skillCond":"29"}]}
+{"Name":["Samson","Samuson"],"Skills":[{"skillName":"Frontier Fighter","skillCond":"Base"},{"skillName":"Vantage","skillCond":"14"},{"skillName":"Awareness","skillCond":"20|Mercenary"},{"skillName":"Adept","skillCond":"29"}]}
 {"Name":["Lionel","Raineru"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Awareness","skillCond":"17"},{"skillName":"Arena Fighter","skillCond":"21"}]}
-{"Name":["Attrom","Atoromu"],"Skills":[{"skillName":"Heaven Saint","skillCond":"15|Fighter"},{"skillName":"Lethality","skillCond":"26"}]}
+{"Name":["Attrom","Atoromu"],"Skills":[{"skillName":"Sol","skillCond":"15|Mercenary"},{"skillName":"Lethality","skillCond":"26"}]}
 {"Name":["Krisheenu","Kurishinu","Krishna","Krisheena"],"Skills":[{"skillName":"Steal","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"17"}]}
 {"Name":["Maerhen","Meruhen","Maerchen"],"Skills":[{"skillName":"Steal","skillCond":"Base"},{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Mug","skillCond":"Base"}]}
-{"Name":["Frau","Furau"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Adept","skillCond":"12"},{"skillName":"Anti-Evil","skillCond":"25"}]}
-{"Name":["Sun","San"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Paragon","skillCond":"5"},{"skillName":"Geomancy","skillCond":"25"},{"skillName":"Awareness","skillCond":"40"},{"skillName":"Charge","skillCond":"Promo"}]}
+{"Name":["Frau","Furau"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Adept","skillCond":"12"},{"skillName":"Slayer","skillCond":"25"}]}
+{"Name":["Sun","San"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Paragon","skillCond":"5"},{"skillName":"Luna","skillCond":"25"},{"skillName":"Awareness","skillCond":"40"},{"skillName":"Charge","skillCond":"Promo"}]}
 {"Name":["Lyria","Ririe"],"Skills":[{"skillName":"Song","skillCond":"Base"}]}
 {"Name":["Mintz","Mintsu"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Charge","skillCond":"Base"}]}
-{"Name":["Rennie","Reni","Leonie"],"Skills":[{"skillName":"Charge","skillCond":"Base"},{"skillName":"Paragon","skillCond":"9"},{"skillName":"Geomancy","skillCond":"19"},{"skillName":"Adept","skillCond":"34"},{"skillName":"City Fighter","skillCond":"Promo"}]}
+{"Name":["Rennie","Reni","Leonie"],"Skills":[{"skillName":"Charge","skillCond":"Base"},{"skillName":"Paragon","skillCond":"9"},{"skillName":"Luna","skillCond":"19"},{"skillName":"Adept","skillCond":"34"},{"skillName":"City Fighter","skillCond":"Promo"}]}
 {"Name":["Shirou"],"Skills":[{"skillName":"Plains Fighter","skillCond":"Base"},{"skillName":"Canto","skillCond":"14"},{"skillName":"Adept","skillCond":"28"}]}
-{"Name":["Loffaru","Roufaru","Raphael"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Pavise","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Charge","skillCond":"32"},{"skillName":"Anti-Evil","skillCond":"37"}]}
-{"Name":["Lionheart","Reonhato"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Heaven Saint","skillCond":"Base"},{"skillName":"Canto","skillCond":"Base"},{"skillName":"Plains Fighter","skillCond":"Base"},{"skillName":"Anti-Evil","skillCond":"22"}]}
+{"Name":["Loffaru","Roufaru","Raphael"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Pavise","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"},{"skillName":"Charge","skillCond":"32"},{"skillName":"Slayer","skillCond":"37"}]}
+{"Name":["Lionheart","Reonhato"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Sol","skillCond":"Base"},{"skillName":"Canto","skillCond":"Base"},{"skillName":"Plains Fighter","skillCond":"Base"},{"skillName":"Slayer","skillCond":"22"}]}
 {"Name":["Zachariah","Zakaria","Zachariah"],"Skills":[{"skillName":"Pavise","skillCond":"Base"},{"skillName":"City Fighter","skillCond":"Base"}]}
 {"Name":["Bud","Bado"],"Skills":[{"skillName":"Steal","skillCond":"Base"},{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Forest Fighter","skillCond":"Base"},{"skillName":"Paragon","skillCond":"10"},{"skillName":"Dragon Saint","skillCond":"40"}]}
-{"Name":["Rishel","Rishueru"],"Skills":[{"skillName":"Gale","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"Base"},{"skillName":"Anti-Evil","skillCond":"15"},{"skillName":"Adept","skillCond":"32"}]}
+{"Name":["Rishel","Rishueru"],"Skills":[{"skillName":"Vantage","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"Base"},{"skillName":"Slayer","skillCond":"15"},{"skillName":"Adept","skillCond":"32"}]}
 {"Name":["Sierra","Shiera","Sherra"],"Skills":[{"skillName":"Warp","skillCond":"Base"}]}
 {"Name":["Rebecca","Ribeka"],"Skills":[{"skillName":"Summon","skillCond":"Base"},{"skillName":"Paragon","skillCond":"16"},{"skillName":"Charisma","skillCond":"38"}]}
 {"Name":["Leteena","Retina","Letena"],"Skills":[{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Summon","skillCond":"8"}]}
-{"Name":["Narcus","Narusasu","Narcissus"],"Skills":[{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Transform","skillCond":"Base"},{"skillName":"Awareness","skillCond":"17"},{"skillName":"Gale","skillCond":"25"},{"skillName":"Adept","skillCond":"31"}]}
-{"Name":["Rina","Ryina","Lina"],"Skills":[{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Canto","skillCond":"9"},{"skillName":"Gale","skillCond":"18"},{"skillName":"Adept","skillCond":"23"}]}
+{"Name":["Narcus","Narusasu","Narcissus"],"Skills":[{"skillName":"Picklock","skillCond":"Base"},{"skillName":"Transform","skillCond":"Base"},{"skillName":"Awareness","skillCond":"17"},{"skillName":"Vantage","skillCond":"25"},{"skillName":"Adept","skillCond":"31"}]}
+{"Name":["Rina","Ryina","Lina"],"Skills":[{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Canto","skillCond":"9"},{"skillName":"Vantage","skillCond":"18"},{"skillName":"Adept","skillCond":"23"}]}
 {"Name":["Renee","Rene"],"Skills":[{"skillName":"Summon","skillCond":"Base"},{"skillName":"Frontier Fighter","skillCond":"Base"}]}
-{"Name":["Yoda","Youda"],"Skills":[{"skillName":"Lethality","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"Base"},{"skillName":"Dragon Saint","skillCond":"Base"},{"skillName":"Frontier Fighter","skillCond":"Base"},{"skillName":"Anti-Evil","skillCond":"Base"}]}
+{"Name":["Yoda","Youda"],"Skills":[{"skillName":"Lethality","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"Base"},{"skillName":"Dragon Saint","skillCond":"Base"},{"skillName":"Frontier Fighter","skillCond":"Base"},{"skillName":"Slayer","skillCond":"Base"}]}
 {"Name":["Hagaru","Hagar"],"Skills":[{"skillName":"Adept","skillCond":"Base"},{"skillName":"Paragon","skillCond":"Base"},{"skillName":"Pavise","skillCond":"18"}]}
-{"Name":["Verna","Venu"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Anti-Evil","skillCond":"Base"}]}
+{"Name":["Verna","Venu"],"Skills":[{"skillName":"Canto","skillCond":"Base"},{"skillName":"Slayer","skillCond":"Base"}]}
 {"Name":["Alfred","Afurido"],"Skills":[{"skillName":"Warp","skillCond":"Base"}]}
 {"Name":["Sennet","Seneto"],"Skills":[{"skillName":"Wrath","skillCond":"Base"},{"skillName":"Earth Saint","skillCond":"Base"},{"skillName":"Charisma","skillCond":"Base"}]}
-{"Name":["Tia","Tie"],"Skills":[{"skillName":"Heaven Saint","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"Base"}]}
+{"Name":["Tia","Tie"],"Skills":[{"skillName":"Sol","skillCond":"Base"},{"skillName":"Rising Dragon","skillCond":"Base"}]}

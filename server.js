@@ -16,16 +16,29 @@ app.get('/api/stats', function(req, res) {
   id_char = id_char.substring(0,1).toUpperCase() + id_char.slice(1,id_char.length);
 
   var id_game=req.query.id_game;
-  var subCat=req.query.subCat;
-  characters = charDb.get(id_game + "_growths");
+  // may as well lowercase this
+  var query_type=req.query.query_type.toLowerCase();
+  var characters="1";
+
+  // Set collection name based on command parameters
+  console.log("[DEBUG] query_type=" + query_type);
+  if(query_type === "growths")
+    characters = charDb.get(id_game + "_growths");
+  if(query_type === "bases")
+    characters = charDb.get(id_game + "_bases");
+  // oh god what a hacky implementation. i'll fix this...definitely a better way to do it
+  if(characters === "1")
+    return;
+
+  // at least re-using this block
   characters.findOne({"Name" : {$in: [id_char]} }, function (err, doc) {
     console.log("[DEBUG] Searching for character " + id_char + " in game " + id_game + "...");
     if(err) return "Error";
     //return doc;
     //res.send(doc);
+    console.log(query_type + " : " + doc);
     res.json(doc);
   });
-  //res.send('Stat request received');
 });
 
 app.get('/api/skills', function(req, res) {

@@ -36,12 +36,12 @@
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe24e"},"Name":["Lionel","Raineru"],"HP":85,"Str":30,"Skl":30,"Agl":20,"Def":30,"Mag":5,"Lck":45,"Wlv":25,"Mov":5}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe24f"},"Name":["Attrom","Atoromu"],"HP":70,"Str":40,"Skl":50,"Agl":45,"Def":20,"Mag":5,"Lck":20,"Wlv":30,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe250"},"Name":["Krisheenu","Kurishinu","Krishna","Krisheena"],"HP":40,"Str":15,"Skl":15,"Agl":25,"Def":14,"Mag":10,"Lck":25,"Wlv":20,"Mov":0}
-{"_id":{"$oid":"5a3036903f5c91b6f9dbe251"},"Name":["Maerhen","Meruhen"],"HP":10,"Str":5,"Skl":5,"Agl":5,"Def":0,"Mag":0,"Lck":5,"Wlv":0,"Mov":0}
+{"_id":{"$oid":"5a3036903f5c91b6f9dbe251"},"Name":["Maerhen","Meruhen","Maerchen"],"HP":10,"Str":5,"Skl":5,"Agl":5,"Def":0,"Mag":0,"Lck":5,"Wlv":0,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe252"},"Name":["Frau","Furau"],"HP":50,"Str":25,"Skl":40,"Agl":45,"Def":20,"Mag":25,"Lck":40,"Wlv":35,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe253"},"Name":["Sun","San"],"HP":55,"Str":30,"Skl":55,"Agl":35,"Def":24,"Mag":20,"Lck":25,"Wlv":40,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe254"},"Name":["Lyria","Ririe"],"HP":25,"Str":0,"Skl":5,"Agl":35,"Def":5,"Mag":15,"Lck":50,"Wlv":15,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe255"},"Name":["Mintz","Mintsu"],"HP":85,"Str":30,"Skl":25,"Agl":20,"Def":30,"Mag":5,"Lck":20,"Wlv":15,"Mov":0}
-{"_id":{"$oid":"5a3036903f5c91b6f9dbe256"},"Name":["Rennie","Reni"],"HP":55,"Str":40,"Skl":30,"Agl":55,"Def":18,"Mag":10,"Lck":35,"Wlv":40,"Mov":10}
+{"_id":{"$oid":"5a3036903f5c91b6f9dbe256"},"Name":["Rennie","Reni","Leonie"],"HP":55,"Str":40,"Skl":30,"Agl":55,"Def":18,"Mag":10,"Lck":35,"Wlv":40,"Mov":10}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe257"},"Name":["Shirou"],"HP":70,"Str":35,"Skl":25,"Agl":35,"Def":22,"Mag":10,"Lck":45,"Wlv":35,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe258"},"Name":["Loffaru","Roufaru","Raphael"],"HP":50,"Str":15,"Skl":20,"Agl":15,"Def":15,"Mag":0,"Lck":30,"Wlv":15,"Mov":0}
 {"_id":{"$oid":"5a3036903f5c91b6f9dbe259"},"Name":["Lionheart","Reonhato"],"HP":75,"Str":30,"Skl":25,"Agl":20,"Def":25,"Mag":5,"Lck":25,"Wlv":25,"Mov":0}
